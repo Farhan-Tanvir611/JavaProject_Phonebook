@@ -1,0 +1,16 @@
+ADD
+Mr. John
+01884884
+Rajshahi
+BUSINESS
+ADD
+Mr. Doe
+017140
+Dhaka
+FAMILY
+DELETE
+Mr. John
+SEARCH
+Mr. John
+EXIT
+
